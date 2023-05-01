@@ -1,6 +1,6 @@
 numpy
 pytesseract==0.3.4
-Flask==1.1.1
+Flask==2.3.2
 Pillow==6.2.0
 cmake
 dlib
